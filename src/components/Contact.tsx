@@ -34,12 +34,12 @@ export const Contact = () => {
     {
       icon: MapPin,
       title: "Endereço",
-      details: ["Rua das Flores, 123 - Centro", "São Paulo, SP - 01234-567"]
+      details: ["Rua São Paulo, 662 - Centro", "Governador Valadares, MG"]
     },
     {
       icon: Phone,
       title: "Telefone", 
-      details: ["(11) 9999-9999"]
+      details: ["(33) 98714-0460"]
     },
     {
       icon: Mail,

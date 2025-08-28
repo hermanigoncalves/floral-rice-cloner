@@ -47,7 +47,7 @@ export const Hero = () => {
             <Button 
               variant="outline" 
               size="lg" 
-              className="border-white/50 text-white hover:bg-white/10 backdrop-blur-sm text-lg px-8 py-6"
+              className="border-white/50 text-black hover:bg-white/10 backdrop-blur-sm text-lg px-8 py-6"
             >
               Conhecer Tratamentos
             </Button>
